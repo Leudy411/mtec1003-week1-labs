@@ -15,28 +15,43 @@ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
-Applications
-Creative Cloud Files
-Desktop
-Documents
-Downloads
-Evening.Walk.latLong.v01.png
-Evening_Walk_exp_v02.hr.txt
-Library
-Movies
-Music
-OM
-Pictures
-Public
-finitevolume.png
-github
-iCloud Drive (Archive)
-installMacOpenFOAM
-javasharedresources
-lgBin
-louis.goldford@columbia.edu Creative Cloud Files
-startMacOpenFOAM
-venv
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{df4dcc8f-fd2a-11ea-8fb5-fe9dbd12f87f}.TM.blf
+ NTUSER.DAT{df4dcc8f-fd2a-11ea-8fb5-fe9dbd12f87f}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{df4dcc8f-fd2a-11ea-8fb5-fe9dbd12f87f}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Twitch/
+ Videos/
+'leudy.hilario@mail.citytech.cuny.edu Creative Cloud Files'/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
 
 
 
@@ -49,12 +64,8 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
-drwx------@  5 louisgoldford2020  staff    160 Jun 12  2020 Applications
-drwx------@  4 louisgoldford2020  staff    128 Jan 11 10:49 Creative Cloud Files
-
-
-
-
+drwxr-xr-x 1 13474 197609       0 Sep 22 19:10 '3D Objects'/
+drwxr-xr-x 1 13474 197609       0 Sep 22 18:32  AppData/
 
 ==========
 3.  Type:
@@ -63,8 +74,10 @@ $ ls -a Documents
 
 Copy and paste the first *two lines* of output below.
 ----------
-.			Adobe			IanniX			OM			Zwift
-..			CU			Ircam			Pd			iZotope
+ ./    Adobe/                           Downloads/                Mother-Tongue-by-Amy-Tan.pdf  'My Pictures'@  'Rockstar Games'/   Zoom/         literacy-narrative-1.pdf
+ ../  'Change of Curriculum[634].pdf'   KrunkerResourceSwapper/  'My Music'@                    'My Videos'@     SOAPSTone.pdf      desktop.ini   young_nah_we_straight.pdf
+
+
 
 
 
