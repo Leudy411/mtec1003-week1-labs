@@ -190,7 +190,7 @@ Follow the instructions line-by-line.
 ==========
 12. Open a new terminal window. Create a directory called mtec1002. What command did you use?
 ----------
-
+mkdir
 
 
 
@@ -199,7 +199,7 @@ Follow the instructions line-by-line.
 ==========
 13. Change your directory so that you're in mtec1002. What command did you use?
 ----------
-
+cd
 
 
 
@@ -216,7 +216,9 @@ If it doesn't ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
+/c/Users/13474
 
+/c/Users/13474/mtec1003
 
 
 
@@ -231,7 +233,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+animals/
 
 
 
@@ -246,6 +248,7 @@ Copy and paste the output below.
 ----------
 
 
+animals/  food/
 
 
 
@@ -259,7 +262,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
+(-p is recursive)
 
 
 
@@ -272,6 +275,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
+/c/Users/13474/mtec1003/foo/bar/baz/qux
 
 
 
