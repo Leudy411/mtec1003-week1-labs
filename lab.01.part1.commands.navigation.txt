@@ -15,6 +15,42 @@ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{df4dcc8f-fd2a-11ea-8fb5-fe9dbd12f87f}.TM.blf
+ NTUSER.DAT{df4dcc8f-fd2a-11ea-8fb5-fe9dbd12f87f}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{df4dcc8f-fd2a-11ea-8fb5-fe9dbd12f87f}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Twitch/
+ Videos/
+'leudy.hilario@mail.citytech.cuny.edu Creative Cloud Files'/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
 
 
 
@@ -28,6 +64,8 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
+'3D Objects'/
+AppData/
 
 
 
@@ -42,6 +80,8 @@ $ ls -a Documents
 Copy and paste the first *two lines* of output below.
 ----------
 
+ ./                       Desktop/                 NTUSER.DAT{df4dcc8f-fd2a-11ea-8fb5-fe9dbd12f87f}.TM.blf                                       'Start Menu'@
+ ../                      Documents/               NTUSER.DAT{df4dcc8f-fd2a-11ea-8fb5-fe9dbd12f87f}.TMContainer00000000000000000001.regtrans-ms   Templates@
 
 
 
@@ -54,7 +94,7 @@ $ ls doesnotexist
 
 Copy and paste the output below.
 ----------
-
+ls: cannot access 'doesnotexist': No such file or directory
 
 
 
@@ -64,7 +104,7 @@ Copy and paste the output below.
 5.  What key do I press to go to the previous command?
 ----------
 
-
+the up arrow on my keyboard
 
 
 
